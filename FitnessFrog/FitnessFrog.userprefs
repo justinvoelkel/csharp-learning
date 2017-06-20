@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{1E4A4BD3-B5C7-44B1-BB04-EC42ED6A84F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.FitnessFrog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessFrog/Tester.cs">
+    <Files>
+      <File FileName="FitnessFrog/Program.cs" Line="2" Column="1" />
+      <File FileName="FitnessFrog/Tester.cs" Line="1" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
